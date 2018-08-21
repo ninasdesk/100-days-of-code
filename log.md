@@ -2,7 +2,12 @@
 
 ### Day 1: 20 August 2018
 
-**Today's Progress**: Worked through the JavaScript Basics course on Treehouse.
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today is my first day learning about JavaScript, so I am on the beginner's course. I've learned a lot already and have even written some alert commands. I've also learned better ways to explain things (running/executing the program, syntaxt, etc.).
 
+### Day 2: 21 August 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I completed the first section of the 'JavaScript Basics' course on Treehouse. I learned the differences between a function, command, and statement and better understand what syntax means. I also learned about using the Javascript console. 
