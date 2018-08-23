@@ -17,3 +17,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I learned about variables. I learned how to and why we use them, how to properly name one, the different parts of a variable, and the differences between strings and numbers. I also learned about the lack of importance and the importance of spacing in JavaScript. 
+
+### Day 4: 23 August 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I learned about capturing user input using prompt and about combining strings. I also played around with the skills I've learned so far, for extra practice.
