@@ -23,3 +23,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I learned about capturing user input using prompt and about combining strings. I also played around with the skills I've learned so far, for extra practice.
+
+### Day 5: 24 August 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse and worked on a WordPress project.
+
+**Thoughts:** Today I learned about working with strings, using the .length, and a bit about objects. I also worked on a WordPress project for a friend. I was editing the Sass of a theme, and with help, I edited a bit of the PHP. I've never learned about PHP before, but it was very interesting and I look forward to learning it later.
