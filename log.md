@@ -29,3 +29,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse and worked on a WordPress project.
 
 **Thoughts:** Today I learned about working with strings, using the .length, and a bit about objects. I also worked on a WordPress project for a friend. I was editing the Sass of a theme, and with help, I edited a bit of the PHP. I've never learned about PHP before, but it was very interesting and I look forward to learning it later.
+
+### Day 6: 25 August 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I completed another section of the 'JavaScript Basics' course on Treehouse and created a mini Mad Libs games using prompt(), variables, and others. I had a lot of fun with it and I feel like I am really understanding the basics so far!!
