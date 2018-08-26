@@ -35,3 +35,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I completed another section of the 'JavaScript Basics' course on Treehouse and created a mini Mad Libs games using prompt(), variables, and others. I had a lot of fun with it and I feel like I am really understanding the basics so far!!
+
+### Day 7: 26 August 2018
+
+**Today's Progress**: Review of the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I did a review of what I've already learned through the 'JavaScript Basics' course on Treehouse. 
