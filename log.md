@@ -47,3 +47,10 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I learned about using the number data types, adding/subtracting/multiplying/dividing and other maths, and about converting strings to numbers. I also created my own little questionaire that added the values together properly as extra practice.
+
+
+### Day 9: 28 August 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I learned about creating a countdown and about the math object. I also did a bit of review of what I've already learned.
