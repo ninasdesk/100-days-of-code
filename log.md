@@ -54,3 +54,10 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I learned about creating a countdown and about the math object. I also did a bit of review of what I've already learned.
+
+
+### Day 10: 29 August 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I completed another section of the 'JavaScript Basics' course on Treehouse. I created a random number picker using (Math . random) and (Math . floor), along with other methods.
