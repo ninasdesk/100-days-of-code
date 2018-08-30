@@ -61,3 +61,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I completed another section of the 'JavaScript Basics' course on Treehouse. I created a random number picker using (Math . random) and (Math . floor), along with other methods.
+
+### Day 11: 30 August 2018
+
+**Today's Progress**: Worked on 2 WordPress projects.
+
+**Thoughts:** Today I took a break from JavaScript and focused on improving my WordPress skills while working on 2 very different projects. 1 project was a theme switch and the other was improving the design of a site.
