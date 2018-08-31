@@ -67,3 +67,9 @@
 **Today's Progress**: Worked on 2 WordPress projects.
 
 **Thoughts:** Today I took a break from JavaScript and focused on improving my WordPress skills while working on 2 very different projects. 1 project was a theme switch and the other was improving the design of a site.
+
+### Day 12: 31 August 2018
+
+**Today's Progress**: Worked on 2 WordPress projects.
+
+**Thoughts:** Today I worked more on my WordPress projects. I completed one project with using CSS.
