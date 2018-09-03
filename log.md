@@ -83,3 +83,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I learned about Comparison Operators in the 'JavaScript Basics' Course on Treehouse. I learned about the differences between them all, as well as which ones are best to use and when. 
+
+### Day 15: 03 September 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I learned about Boolean Values the else if clause in the 'JavaScript Basics' Course on Treehouse. I also created a random number guessing game.
