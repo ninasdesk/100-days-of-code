@@ -89,3 +89,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I learned about Boolean Values the else if clause in the 'JavaScript Basics' Course on Treehouse. I also created a random number guessing game.
+
+### Day 16: 04 September 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I learned about using comments in JavaScript and about the and operator (&&) in the 'JavaScript Basics' Course on Treehouse. I also did several practice activities to go over what I've learned so far and improved the random number guess game.
