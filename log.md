@@ -102,3 +102,9 @@
 **Today's Progress**: Completed the 'Making Decisions with Conditional Statements' section of the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Day 17 I spent reviewing everything I learned, and Day 18 I created a quiz using all of my newly attained knowledge. 
+
+### Day 19: 07 September 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I started the functions section of the 'JavaScript Basics' course on Treehouse. I went over the introduction to functions and I learned about how functions change the flow of a program.
