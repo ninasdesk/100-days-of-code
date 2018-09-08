@@ -96,7 +96,6 @@
 
 **Thoughts:** Today I learned about using comments in JavaScript and about the and operator (&&) in the 'JavaScript Basics' Course on Treehouse. I also did several practice activities to go over what I've learned so far and improved the random number guess game.
 
-
 ### Day 17 & 18: 05 & 06 September 2018
 
 **Today's Progress**: Completed the 'Making Decisions with Conditional Statements' section of the 'JavaScript Basics' course on Treehouse.
@@ -108,3 +107,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I started the functions section of the 'JavaScript Basics' course on Treehouse. I went over the introduction to functions and I learned about how functions change the flow of a program.
+
+### Day 20: 08 September 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I did a review of what I learned yesterday and then learned about gettin information from a function using return keyword.
