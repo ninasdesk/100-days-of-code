@@ -113,3 +113,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I did a review of what I learned yesterday and then learned about gettin information from a function using return keyword.
+
+### Day 21: 09 September 2018
+
+**Today's Progress**: JavaScript review day with the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today I spent my hour reviewing everything I've learned so far with Treehouse on JavaScript.
