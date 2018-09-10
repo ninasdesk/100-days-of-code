@@ -119,3 +119,9 @@
 **Today's Progress**: JavaScript review day with the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today I spent my hour reviewing everything I've learned so far with Treehouse on JavaScript.
+
+### Day 22: 10 September 2018
+
+**Today's Progress**: Edited Sass files in a WordPress project.
+
+**Thoughts:** Today I edited some Sass files in a custom WordPress theme project. I also peaked at the PHP and read through several files to try and understand it.
