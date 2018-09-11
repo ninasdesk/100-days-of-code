@@ -125,3 +125,9 @@
 **Today's Progress**: Edited Sass files in a WordPress project.
 
 **Thoughts:** Today I edited some Sass files in a custom WordPress theme project. I also peaked at the PHP and read through several files to try and understand it.
+
+### Day 23: 11 September 2018
+
+**Today's Progress**: Worked through the 'CSS to Sass' course on Treehouse.
+
+**Thoughts:** Today I decided to take a break from JavaScript and brush up on my Sass skills since I have been using it so much lately with work.
