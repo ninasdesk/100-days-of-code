@@ -131,3 +131,9 @@
 **Today's Progress**: Worked through the 'CSS to Sass' course on Treehouse.
 
 **Thoughts:** Today I decided to take a break from JavaScript and brush up on my Sass skills since I have been using it so much lately with work.
+
+### Day 24-25: 12-13 September 2018
+
+**Today's Progress**: Worked on 3 different WordPress projects.
+
+**Thoughts:** I fixed bugs in Sass on one project and edited the design of two others in the CSS customizer.
