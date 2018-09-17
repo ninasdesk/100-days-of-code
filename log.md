@@ -137,3 +137,9 @@
 **Today's Progress**: Worked on 3 different WordPress projects.
 
 **Thoughts:** I fixed bugs in Sass on one project and edited the design of two others in the CSS customizer.
+
+### Day 26: 17 September 2018
+
+**Today's Progress**: JavaScript review day with the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** I took a 3 day vacation to celebrate my 4 year anniversary, but I'm back and ready to continue learning! Today, I did a JavaScript functions review, to prepare for learning something new tomorrow.
