@@ -143,3 +143,10 @@
 **Today's Progress**: JavaScript review day with the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** I took a 3 day vacation to celebrate my 4 year anniversary, but I'm back and ready to continue learning! Today, I did a JavaScript functions review, to prepare for learning something new tomorrow.
+
+
+### Day 27-28: 18-19 September 2018
+
+**Today's Progress**: Worked on 2 WordPress projects.
+
+**Thoughts:** During these last two days, I've worked on 2 different WordPress projects, one being particularly challenging, but I fixed the problem after researching.
