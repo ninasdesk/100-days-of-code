@@ -150,3 +150,9 @@
 **Today's Progress**: Worked on 2 WordPress projects.
 
 **Thoughts:** During these last two days, I've worked on 2 different WordPress projects, one being particularly challenging, but I fixed the problem after researching.
+
+### Day 29: 20 September 2018
+
+**Today's Progress**: Worked on a WordPress project.
+
+**Thoughts:** Today, I had to change a couple widgets using CSS, along with several other tidy ups on a WordPress project.
