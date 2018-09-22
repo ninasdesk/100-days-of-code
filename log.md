@@ -144,7 +144,6 @@
 
 **Thoughts:** I took a 3 day vacation to celebrate my 4 year anniversary, but I'm back and ready to continue learning! Today, I did a JavaScript functions review, to prepare for learning something new tomorrow.
 
-
 ### Day 27-28: 18-19 September 2018
 
 **Today's Progress**: Worked on 2 WordPress projects.
@@ -156,3 +155,15 @@
 **Today's Progress**: Worked on a WordPress project.
 
 **Thoughts:** Today, I had to change a couple widgets using CSS, along with several other tidy ups on a WordPress project.
+
+### Day 30: 21 September 2018
+
+**Today's Progress**: Worked on a WordPress project.
+
+**Thoughts:** Yesterday, I finished off another WordPress project for work that needed a lot of custom CSS added to it.
+
+### Day 31: 22 September 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today, after a bit of review, I did some function practice and learned about Variable Scopes.
