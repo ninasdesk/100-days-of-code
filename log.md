@@ -167,3 +167,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** Today, after a bit of review, I did some function practice and learned about Variable Scopes.
+
+### Day 32: 23 September 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** Today, I did half JavaScript review and half JavaScript practice.
