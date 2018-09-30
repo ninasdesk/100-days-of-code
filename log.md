@@ -179,3 +179,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** I had forgotten to update this day, but I had done JavaScript review for my hour.
+
+### Day 34: 30 September 2018
+
+**Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
+
+**Thoughts:** I had to take a 5 day break due to getting sick. I'm back at it today with more JavaScript review to try and complete a complicated "JavaScript Practice" on Treehouse. I didn't complete it today, but I will tomorrow!
