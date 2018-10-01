@@ -185,3 +185,9 @@
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
 
 **Thoughts:** I had to take a 5 day break due to getting sick. I'm back at it today with more JavaScript review to try and complete a complicated "JavaScript Practice" on Treehouse. I didn't complete it today, but I will tomorrow!
+
+### Day 35: 01 October 2018
+
+**Today's Progress**: Completed the 'JavaScript Basics' course on Treehouse and started the 'JavaScript Arrays, Loops, and Objects' course.
+
+**Thoughts:** I completed the JavaScript practice I had been stuck on. After this, I started the next course in the Front End Web Development Track, 'JavaScript Arrays, Loops, and Objects'. I've learned how to use the while loop so far.
