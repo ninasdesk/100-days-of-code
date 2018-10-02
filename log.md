@@ -191,3 +191,9 @@
 **Today's Progress**: Completed the 'JavaScript Basics' course on Treehouse and started the 'JavaScript Arrays, Loops, and Objects' course.
 
 **Thoughts:** I completed the JavaScript practice I had been stuck on. After this, I started the next course in the Front End Web Development Track, 'JavaScript Arrays, Loops, and Objects'. I've learned how to use the while loop so far.
+
+### Day 36: 02 October 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** Today I learned more about while loops and I learned what an endless loop was and how to prevent it. I also started learning about 'do .. while' loops.
