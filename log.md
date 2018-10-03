@@ -197,3 +197,9 @@
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** Today I learned more about while loops and I learned what an endless loop was and how to prevent it. I also started learning about 'do .. while' loops.
+
+### Day 37: 03 October 2018
+
+**Today's Progress**: Reviewed the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** Today I learned more 'do .. while' loops and did some review.
