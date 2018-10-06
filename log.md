@@ -209,3 +209,9 @@
 **Today's Progress**: Worked on a WordPress project.
 
 **Thoughts:** These 2 days, I worked on a WordPress project for work that required a lot of custom CSS.
+
+### Day 40: 06 October 2018
+
+**Today's Progress**: Reviewed the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** Today, I did a review on what I've learned so far abour while and do while loops.
