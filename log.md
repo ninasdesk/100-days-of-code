@@ -215,3 +215,9 @@
 **Today's Progress**: Reviewed the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** Today, I did a review on what I've learned so far abour while and do while loops.
+
+### Day 41: 07 October 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** Today, I learned about the for loop and how to use it. I also learned about the break statement to break out of infinite loops.
