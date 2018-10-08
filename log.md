@@ -221,3 +221,9 @@
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** Today, I learned about the for loop and how to use it. I also learned about the break statement to break out of infinite loops.
+
+### Day 42: 08 October 2018
+
+**Today's Progress**: Watched freeCodeCamp YouTube videos.
+
+**Thoughts:** Today, I watched several of freeCodeCamp's JavaScript YouTube videos.
