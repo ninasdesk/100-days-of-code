@@ -227,3 +227,9 @@
 **Today's Progress**: Watched freeCodeCamp YouTube videos.
 
 **Thoughts:** Today, I watched several of freeCodeCamp's JavaScript YouTube videos.
+
+### Day 43: 09 October 2018
+
+**Today's Progress**: Completed my personal portfolio.
+
+**Thoughts:** Today, finished building my personal portfolio, using WordPress. ninasdesk.com
