@@ -238,4 +238,10 @@
 
 **Today's Progress**: Worked on a WordPress site for work.
 
-**Thoughts:** Today, worked on and completed a WordPress site for work that required a lot of custom CSS.
+**Thoughts:** Today, I worked on and completed a WordPress site for work that required a lot of custom CSS.
+
+### Day 45: 11 October 2018
+
+**Today's Progress**: Worked on 2 WordPress sites for work.
+
+**Thoughts:** Today, I worked on and completed 2 WordPress sites for work that required a lot of custom CSS.
