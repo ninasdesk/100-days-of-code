@@ -233,3 +233,9 @@
 **Today's Progress**: Completed my personal portfolio.
 
 **Thoughts:** Today, finished building my personal portfolio, using WordPress. ninasdesk.com
+
+### Day 44: 10 October 2018
+
+**Today's Progress**: Worked on a WordPress site for work.
+
+**Thoughts:** Today, worked on and completed a WordPress site for work that required a lot of custom CSS.
