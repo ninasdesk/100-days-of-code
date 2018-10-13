@@ -245,3 +245,9 @@
 **Today's Progress**: Worked on 2 WordPress sites for work.
 
 **Thoughts:** Today, I worked on and completed 2 WordPress sites for work that required a lot of custom CSS.
+
+### Day 46: 12 October 2018
+
+**Today's Progress**: Completed the first section of the 'JavaScript Loops, Arrays and Objects' course, 'Simplify Repetitive Tasks with Loops'.
+
+**Thoughts:** Today, I completed the first section of the 'JavaScript Loops, Arrays and Objects' course, 'Simplify Repetitive Tasks with Loops'. I feel like I have a good grasp on loops now.
