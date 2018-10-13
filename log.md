@@ -251,3 +251,9 @@
 **Today's Progress**: Completed the first section of the 'JavaScript Loops, Arrays and Objects' course, 'Simplify Repetitive Tasks with Loops'.
 
 **Thoughts:** Today, I completed the first section of the 'JavaScript Loops, Arrays and Objects' course, 'Simplify Repetitive Tasks with Loops'. I feel like I have a good grasp on loops now.
+
+### Day 47: 13 October 2018
+
+**Today's Progress**: Worked on a WordPress site for work.
+
+**Thoughts:** Today, I worked on a WordPress site for work - I had to transfer a site to a new theme and edit the CSS to make it look the same.
