@@ -256,4 +256,10 @@
 
 **Today's Progress**: Worked on a WordPress site for work.
 
-**Thoughts:** Today, I worked on a WordPress site for work - I had to transfer a site to a new theme and edit the CSS to make it look the same.
+**Thoughts:** Today, I worked on a WordPress site for work - I am converting a site to a new theme and editing the CSS to make it look the same.
+
+### Day 48: 14 October 2018
+
+**Today's Progress**: Worked on a WordPress site for work.
+
+**Thoughts:** Today, I continued working on a WordPress site for work - I am converting a site to a new theme and editing CSS to make it look the same.
