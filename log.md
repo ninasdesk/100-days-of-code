@@ -264,8 +264,8 @@
 
 **Thoughts:** Today, I continued working on a WordPress site for work - I am converting a site to a new theme and editing CSS to make it look the same.
 
-### Day 49: 15 October 2018
+### Day 49-50: 15-16 October 2018
 
-**Today's Progress**: Worked on a WordPress site for work.
+**Today's Progress**: Worked on and completed a WordPress site for work.
 
 **Thoughts:** Today, I completed one site and have started on a second site. I've had a lot of WordPress projects on lately, which I am very thankful for, as it is a lot of useful practice.
