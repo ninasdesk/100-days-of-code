@@ -275,3 +275,9 @@
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** These days, I worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse and learned about arrays.
+
+### Day 53-54: 19-20 October 2018
+
+**Today's Progress**: Worked on and completed a WordPress site for work.
+
+**Thoughts:** I worked on and completed another WordPress site for work that was slightly more complicated than usual and required custom CSS.
