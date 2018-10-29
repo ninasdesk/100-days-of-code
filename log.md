@@ -287,3 +287,9 @@
 **Today's Progress**: Worked on and completed 4 differnt WordPress sites for work.
 
 **Thoughts:** I worked on and completed 4 more WordPress sites for work that were all different and some had slightly more complicated fixes and changes and required custom CSS.
+
+### Day 60-61: 26-27 October 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** These days, I worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse and learned more about arrays, like adding data to and removing data from arrays using push, pop, unshift, and shift. I also learned about using for loops with arrays.
