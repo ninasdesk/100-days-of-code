@@ -282,7 +282,7 @@
 
 **Thoughts:** I worked on and completed another WordPress site for work that was slightly more complicated than usual and required custom CSS.
 
-### Day 55-58: 21-24 October 2018
+### Day 55-59: 21-25 October 2018
 
 **Today's Progress**: Worked on and completed 4 differnt WordPress sites for work.
 
