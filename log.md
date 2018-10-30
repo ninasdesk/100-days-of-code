@@ -293,3 +293,9 @@
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** These days, I worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse and learned more about arrays, like adding data to and removing data from arrays using push, pop, unshift, and shift. I also learned about using for loops with arrays.
+
+### Day 62: 28 October 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** Today, I learned 3 more array methods (join, concat, and indexOf) and how to use them.
