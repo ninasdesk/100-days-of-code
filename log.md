@@ -300,8 +300,14 @@
 
 **Thoughts:** Today, I learned 3 more array methods (join, concat, and indexOf) and how to use them.
 
-### Day 63: 28 October 2018
+### Day 63: 29 October 2018
 
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** Today, I learned about two-dimensional arrays and how to use them. I also started working on building a quiz using 2D arrays, loops, prompt, and conditional statements. I will finish it tomorrow.
+
+### Day 64: 30 October 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** Today, I finished building the quiz using arrays, loops, conditional statements and more. 
