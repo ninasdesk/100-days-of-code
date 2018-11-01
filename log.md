@@ -311,3 +311,10 @@
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** Today, I finished building the quiz using arrays, loops, conditional statements and more. 
+
+
+### Day 65-66: 31 October - 01 November 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse and started building my own JavaScript Quiz.
+
+**Thoughts:** I worked more on the 'JavaScript Arrays, Loops, and Objects' course on Treehouse - I finished the arrays section and started learning about Objects. Using what I have learned so far, I have started building my own quiz from scratch about JavaScript, using JavaScript, HTML, and CSS.
