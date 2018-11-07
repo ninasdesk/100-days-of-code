@@ -324,3 +324,9 @@
 **Today's Progress**: Reviewed JavaScript courses on Treehouse and worked on building my own JavaScript Quiz
 
 **Thoughts:** These last several days, I have focused on reviewing my JavaScript skills and building my own JavaScript Quiz from scratch. I am using as many skills as I can that I've learned so far in the quiz.
+
+### Day 72: 07 November 2018
+
+**Today's Progress**: Worked on a WordPress project
+
+**Thoughts:** Today, I helped my friend with a WordPress project he was working on. He has to use a theme someone else made, and edit the Sass, JavaScript, and PHP to make it look/act how the client wants. I was helping him with some of these tasks and also shadowing him.
