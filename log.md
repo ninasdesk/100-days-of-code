@@ -336,3 +336,9 @@
 **Today's Progress**: Worked on my JavaScript Quiz project and did lots of JavaScript review
 
 **Thoughts:** During these days, I got quite far on my quiz and I am really proud of my progress. This quiz is really testing my knowledge and skills. I've also done a lot of JavaScript review to help me through things.
+
+### Day 76: 11 November 2018
+
+**Today's Progress**: Worked on a WordPress project
+
+**Thoughts:** Today, I continued helping my friend with a WordPress project he is working on. He has to use a theme someone else made, and edit the Sass, JavaScript, and PHP to make it look/act how the client wants. I was helping him with some of these tasks and also shadowing him. It's a lot bigger of a project than he originally thought and I am learning a lot.
