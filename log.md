@@ -333,12 +333,18 @@
 
 ### Day 73-75: 08-10 November 2018
 
-**Today's Progress**: Worked on my JavaScript Quiz project and did lots of JavaScript review
+**Today's Progress**: Worked on my JavaScript Quiz project and did lots of JavaScript review.
 
 **Thoughts:** During these days, I got quite far on my quiz and I am really proud of my progress. This quiz is really testing my knowledge and skills. I've also done a lot of JavaScript review to help me through things.
 
 ### Day 76: 11 November 2018
 
-**Today's Progress**: Worked on a WordPress project
+**Today's Progress**: Worked on a WordPress project.
 
 **Thoughts:** Today, I continued helping my friend with a WordPress project he is working on. He has to use a theme someone else made, and edit the Sass, JavaScript, and PHP to make it look/act how the client wants. I was helping him with some of these tasks and also shadowing him. It's a lot bigger of a project than he originally thought and I am learning a lot.
+
+### Day 77: 12 November 2018
+
+**Today's Progress**: Fixed a bug using PHP.
+
+**Thoughts:** Today, with Joe's help, I fixed a bug on one of my client's sites. The bug (it wasn't so much a bug but an issue), was that the button that should have taken the user to a latest issue had to be updated manually. Together, we edited the PHP files so that the code will now grab the link to whatever issue is the most recent (latest) and add it to the button every time it is clicked.
