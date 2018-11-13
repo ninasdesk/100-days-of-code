@@ -348,3 +348,9 @@
 **Today's Progress**: Fixed a bug using PHP.
 
 **Thoughts:** Today, with Joe's help, I fixed a bug on one of my client's sites. The bug (it wasn't so much a bug but an issue), was that the button that should have taken the user to a latest issue had to be updated manually. Together, we edited the PHP files so that the code will now grab the link to whatever issue is the most recent (latest) and add it to the button every time it is clicked.
+
+### Day 78: 13 November 2018
+
+**Today's Progress**: Finished the basic set up of my JavaScript quiz.
+
+**Thoughts:** Today, I finishes the basic set up of my JavaScript quiz. I want to do more with it in the future when my skills have increased. I also learned more about JavaScript Objects with the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
