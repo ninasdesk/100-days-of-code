@@ -354,3 +354,9 @@
 **Today's Progress**: Finished the basic set up of my JavaScript quiz.
 
 **Thoughts:** Today, I finishes the basic set up of my JavaScript quiz. I want to do more with it in the future when my skills have increased. I also learned more about JavaScript Objects with the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+### Day 79-80: 14-15 November 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** These days, I concentrated on learning more about JavaScript Objects and how to use them.
