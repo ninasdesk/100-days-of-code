@@ -360,3 +360,9 @@
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** These days, I concentrated on learning more about JavaScript Objects and how to use them.
+
+### Day 81: 16 November 2018
+
+**Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** Today, I learned more about JavaScript Objects, like using arrays and objects together and a bit about JSON.
