@@ -372,3 +372,10 @@
 **Today's Progress**: Worked through the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** Today, I worked more on a project for the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+
+### Day 83-85: 23-25 November 2018
+
+**Today's Progress**: Completed the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+**Thoughts:** I took a 5 day break due to packing, finishing up work, cleaning, 2 days of travel, and Thanksgiving. During these days, I completed the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
