@@ -379,3 +379,9 @@
 **Today's Progress**: Completed the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
 
 **Thoughts:** I took a 5 day break due to packing, finishing up work, cleaning, 2 days of travel, and Thanksgiving. During these days, I completed the 'JavaScript Arrays, Loops, and Objects' course on Treehouse.
+
+### Day 86: 26 November 2018
+
+**Today's Progress**: Completed the first sections of the 'PHP Basics' course on Treehouse.
+
+**Thoughts:** Today, I started learning PHP with Treehouse. I only went over a few things, such as echo and comments, but I'm really excited for what comes next!
