@@ -385,3 +385,9 @@
 **Today's Progress**: Completed the first sections of the 'PHP Basics' course on Treehouse.
 
 **Thoughts:** Today, I started learning PHP with Treehouse. I only went over a few things, such as echo and comments, but I'm really excited for what comes next!
+
+### Day 87: 27 November 2018
+
+**Today's Progress**: Worked through the 'PHP Basics' course on Treehouse.
+
+**Thoughts:** Today, I learned about writing and using varibles in PHP and about integers.
