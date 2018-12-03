@@ -391,3 +391,9 @@
 **Today's Progress**: Worked through the 'PHP Basics' course on Treehouse.
 
 **Thoughts:** Today, I learned about writing and using varibles in PHP and about integers.
+
+### Day 88-92: 28 November - 02 December 2018
+
+**Today's Progress**: Worked on and completed a challenging WordPress project.
+
+**Thoughts:** I had to use SASS, HTML, and PHP to build a WordPress project, based off a provided design. It was very challenging, but in the end, I'm proud of what I accomplished.
