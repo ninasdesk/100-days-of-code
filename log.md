@@ -397,3 +397,9 @@
 **Today's Progress**: Worked on and completed a challenging WordPress project.
 
 **Thoughts:** I had to use SASS, HTML, and PHP to build a WordPress project, based off a provided design. It was very challenging, but in the end, I'm proud of what I accomplished.
+
+### Day 93-96: 03 - 06 December 2018
+
+**Today's Progress**: Worked on a challenging WordPress project.
+
+**Thoughts:** Over these last several days, I completed the first stage of a new, challenging WordPress project. I have never worked with this theme before, so it took a bit to get used to it. I've had to edit some of the files to get what the client wants as well. Starting stage 2, the final stage, as soon as I get feedback from the client.
