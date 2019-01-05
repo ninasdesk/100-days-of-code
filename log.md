@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+FINISHED:
+Start Date: 20 August 2018
+End Date: 19 December 2018
+
 ### Day 1: 20 August 2018
 
 **Today's Progress**: Worked through the 'JavaScript Basics' course on Treehouse.
