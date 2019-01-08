@@ -11,3 +11,9 @@
 **Today's Progress**: Completed the Basic CSS section on freeCodeCamp and half of the Applied Visual Design section.
 
 **Thoughts:** I had a good brush up on my CSS skills, and I also learned about making variables in CSS, which I didn't know how to do before as it is newer.
+
+### Day 3: 07 January 2019
+
+**Today's Progress**: Completed the Applied Visual Design section on freeCodeCamp.
+
+**Thoughts:** I completed the Applied Visual Design section on freeCodeCamp and learned more about animations in CSS.
