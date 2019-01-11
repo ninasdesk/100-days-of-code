@@ -17,3 +17,9 @@
 **Today's Progress**: Completed the Applied Visual Design section on freeCodeCamp.
 
 **Thoughts:** I completed the Applied Visual Design section on freeCodeCamp and learned more about animations in CSS.
+
+### Day 4: 11 January 2019
+
+**Today's Progress**: Completed the Applied Accessibility section on freeCodeCamp.
+
+**Thoughts:** I completed the Applied Accessibility section on freeCodecamp today, and I leared more about how to make my code better for screen reader users.
