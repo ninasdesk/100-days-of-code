@@ -35,3 +35,9 @@
 **Today's Progress**: I helped a friend with a WordPress project.
 
 **Thoughts:** My friend uses the Divi theme on WordPress for his personal site, and was having styling issues. Using CSS, I was able to fix his several issues, but it took longer because of Divi's settings.
+
+### Day 7: 14 January 2019
+
+**Today's Progress**: I worked on Responsive Web Design Projects - Build a Tribute Page from freeCodeCamp.
+
+**Thoughts:** I chose Stephen Hawking to build my tribute page for. I've gotten all the content and HTML up, next is the styling.
