@@ -23,3 +23,15 @@
 **Today's Progress**: Completed the Applied Accessibility section on freeCodeCamp.
 
 **Thoughts:** I completed the Applied Accessibility section on freeCodecamp today, and I leared more about how to make my code better for screen reader users.
+
+### Day 5: 12 January 2019
+
+**Today's Progress**: Completed the Responsive Web Design Principles, CSS Flexbox, and CSS Grid sections on freeCodeCamp.
+
+**Thoughts:** Completing these sections was a great brush up on my skills. I'm excited to work on the Responsive Web Design Projects next.
+
+### Day 6: 13 January 2019
+
+**Today's Progress**: I helped a friend with a WordPress project.
+
+**Thoughts:** My friend uses the Divi theme on WordPress for his personal site, and was having styling issues. Using CSS, I was able to fix his several issues, but it took longer because of Divi's settings.
